@@ -1,3 +1,4 @@
 [submodule "rails"]
 	path = rails
 	url = https://github.com/rails/rails
+  branch = 4-0-stable
