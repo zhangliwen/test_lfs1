@@ -1,13 +1,16 @@
 [submodule "rails11"]
-	path = rails22
-	url = https://github.com/rails/rails
+  path = rails22
+  url = https://github.com/rails/rails
   branch = 4-0-stable
 [submodule "ruby-git"]
-	path = ruby-git
-	url = https://github.com/ruby-git/ruby-git
+  path = ruby-git
+  url = https://github.com/ruby-git/ruby-git
 [submodule "module_name"]
-	path = module_path
-	url = https://github.com/ruby/rexml
+  path = module_path
+  url = https://github.com/ruby/rexml
 [submodule "module_name"]
   path = Job-Recommend
   url = https://github.com/CyC2018/Job-Recommend
+[submodule "module_name"]
+  path = nowcoder-project
+  url = hhttps://github.com/wmy1696/nowcoder-project
