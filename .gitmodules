@@ -5,3 +5,9 @@
 [submodule "ruby-git"]
 	path = ruby-git
 	url = https://github.com/ruby-git/ruby-git
+[submodule "module_name"]
+	path = module_path
+	url = https://github.com/ruby/rexml
+[submodule "module_name"]
+  path = Job-Recommend
+  url = https://github.com/CyC2018/Job-Recommend
