@@ -9,8 +9,8 @@
 	path = module_path
 	url = https://github.com/ruby/rexml
 [submodule "module_name"]
-  path = Job-Recommend
-  url = https://github.com/CyC2018/Job-Recommend
-[submodule "module_name"]
   path = nowcoder-project
   url = https://github.com/wmy1696/nowcoder-project
+[submodule "module_name"]
+  path = Job-Recommend
+  url = https://github.com/CyC2018/Job-Recommend
