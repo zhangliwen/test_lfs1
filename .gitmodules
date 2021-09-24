@@ -14,3 +14,6 @@
 [submodule "module_name"]
   path = Job-Recommend
   url = https://github.com/CyC2018/Job-Recommend
+[submodule "nowcoder_test"]
+	path = nowcoder_test
+	url = https://github.com/wmy1696/nowcoder-project
