@@ -1,4 +1,4 @@
-[submodule "rails"]
+[submodule "rails11"]
 	path = rails
 	url = https://github.com/rails/rails
   branch = 4-0-stable
