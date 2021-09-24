@@ -2,3 +2,6 @@
 	path = rails22
 	url = https://github.com/rails/rails
   branch = 4-0-stable
+[submodule "ruby-git"]
+	path = ruby-git
+	url = https://github.com/ruby-git/ruby-git
