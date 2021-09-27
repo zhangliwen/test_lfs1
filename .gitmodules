@@ -17,3 +17,5 @@
 [submodule "nowcoder_test"]
 	path = nowcoder_test
 	url = https://github.com/wmy1696/nowcoder-project
+[submodule "rails"]
+	url = https://github.com/rake-compiler/rake-compiler
